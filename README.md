@@ -170,6 +170,8 @@ Refer to the repository's license file for usage and distribution terms.
 
 1[image alt](https://github.com/1si22ad012/AI_based-security-for-healthcare-applications/blob/main/Screenshot%202026-10-23%20192500.png?raw=true)
 
+![image alt](https://github.com/1si22ad012/AI_based-security-for-healthcare-applications/blob/main/Screenshot%202026-10-23%20192632.png?raw=true)
+
 
 
 
