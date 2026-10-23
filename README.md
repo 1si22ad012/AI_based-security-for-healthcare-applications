@@ -166,3 +166,6 @@ This project is intended for educational and demonstration purposes. It should n
 ## 📄 License
 
 Refer to the repository's license file for usage and distribution terms.
+![image alt](C:\Users\Win\OneDrive\Pictures\Screenshots\Screenshot 2026-10-23 192447.png)
+
+
