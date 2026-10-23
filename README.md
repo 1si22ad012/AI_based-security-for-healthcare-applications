@@ -168,5 +168,8 @@ This project is intended for educational and demonstration purposes. It should n
 Refer to the repository's license file for usage and distribution terms.
 ![image alt](https://github.com/1si22ad012/AI_based-security-for-healthcare-applications/blob/a0028162176931dd1faa8ef87670e81a63103700/Screenshot%202026-10-23%20192447.png)
 
+1[image alt](https://github.com/1si22ad012/AI_based-security-for-healthcare-applications/blob/main/Screenshot%202026-10-23%20192500.png?raw=true)
+
+
 
 
